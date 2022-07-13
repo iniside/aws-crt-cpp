@@ -1,6 +1,6 @@
 [submodule "crt/aws-c-common"]
 	path = crt/aws-c-common
-	url = https://github.com/awslabs/aws-c-common.git
+	url = https://github.com/iniside/aws-c-common.git
 [submodule "crt/aws-c-io"]
 	path = crt/aws-c-io
 	url = https://github.com/awslabs/aws-c-io.git
